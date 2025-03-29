@@ -1,0 +1,7 @@
+ipython
+pandas
+loguru
+requests
+zstandard
+ta
+optuna
